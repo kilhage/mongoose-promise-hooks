@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-$ npm mongoose-promise-hooks
+$ npm install mongoose-promise-hooks
 ```
 
 ## Description
