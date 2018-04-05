@@ -1,14 +1,14 @@
 # mongoose-promise-hooks
 
+## Description
+
+Simplifies creating promise based mongoose pre and post hooks
+
 ## Installation
 
 ```
 $ npm install mongoose-promise-hooks
 ```
-
-## Description
-
-Simplifies creating promise based mongoose pre and post hooks
 
 ## Usage
 
