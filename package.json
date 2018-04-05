@@ -1,7 +1,7 @@
 {
   "name": "mongoose-promise-hooks",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Simplifies creating promise based mongoose pre and post hooks",
   "main": "index.js",
   "scripts": {
     "test": "npm run lint",
