@@ -13,7 +13,14 @@
     "type": "git",
     "url": "git+ssh://git@github.com/kilhage/mongoose-promise-hooks.git"
   },
-  "keywords": ["mongoose", "mongodb", "promise", "hook", "pre", "post"],
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "promise",
+    "hook",
+    "pre",
+    "post"
+  ],
   "author": "emilkilhage@gmail.com",
   "license": "MIT",
   "bugs": {
@@ -21,14 +28,14 @@
   },
   "homepage": "https://github.com/kilhage/mongoose-promise-hooks#readme",
   "dependencies": {
-    "@types/mongoose": "^5.0.7",
-    "mongoose": "^5.0.12"
+    "@types/mongoose": "^5.3.17",
+    "mongoose": "^5.4.13"
   },
   "devDependencies": {
-    "prettier": "^1.11.1",
-    "pretty-quick": "^1.4.1",
-    "tslint": "^5.9.1",
-    "tslint-config-prettier": "^1.10.0",
-    "typescript": "^2.8.1"
+    "prettier": "^1.16.4",
+    "pretty-quick": "^1.10.0",
+    "tslint": "^5.12.1",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^2.9.2"
   }
 }
